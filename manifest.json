@@ -1,11 +1,11 @@
 {
-    "name": "plaza_storage",
-    "short_name": "plaza_storage",
+    "name": "Plaza Storage",
+    "short_name": "PZ Storage",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Warehouse Management APP",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
