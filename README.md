@@ -76,17 +76,8 @@ flutter run
 👨‍💻 Autore
 Sviluppato con ❤️ da Roberto – Studente e sviluppatore Flutter junior.
 
-Se ti piace il progetto, lascia una ⭐ su GitHub o contattami per collaborazioni!
+Se ti piace il progetto, lascia una ⭐ su GitHub o contattami per collaborazioni.
 
-# Changelog 2025
-
-- Refactoring modello Product: aggiunti categoria, prezzoUnitario, consumati, ultimaModifica.
-- Dashboard analitica: top 5 prodotti consumati, distribuzione per categoria, spesa mensile totale.
-- Provider aggiornato per aggregazioni e performance.
-- UI e form modernizzati e coerenti.
-- Query Firestore ottimizzate e coerenti con il nuovo modello.
-- Rimozione campo fornitore e metodi toJson/fromJson.
-- Best practice di sviluppo e manutenzione documentate.
 
 # Aggiornamenti 2025
 
