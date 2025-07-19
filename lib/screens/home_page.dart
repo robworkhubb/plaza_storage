@@ -41,7 +41,7 @@ class _HomePageState extends State<HomePage> {
             const Icon(Icons.inventory_2, color: Color(0xFF009688), size: 28),
             const SizedBox(width: 10),
             const Text(
-              'Plaza Storage',
+              'Stockely',
               style: TextStyle(
                 color: Color(0xFF009688),
                 fontWeight: FontWeight.bold,
